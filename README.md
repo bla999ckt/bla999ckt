@@ -5,7 +5,7 @@
 - 💬 Ask me about **Ai and machine learning**
 - 📫 How to reach me: **hkouiriti@gmail.com**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also have a portfolio website, check it out on [![MyPortfolio](https://hanaportfolio.netlify.app/)
+- ⚡ Fun fact: I also have a portfolio website, check it out on [MyPortfolio](https://hanaportfolio.netlify.app/)
 
 ## About Me:
 I'm a second year student in Northwestren Polytechnical University in China. I have experiences in programming with several projects completed. Currently concentrating on Artificial Intelligence & Machine Learning.
