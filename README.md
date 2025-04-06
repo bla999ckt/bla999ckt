@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I also have a portfolio website, check it out on [MyPortfolio](https://hanaportfolio.netlify.app/)
 
 ## About Me:
-I'm a second year student in Northwestren Polytechnical University in China. I have experiences in programming with several projects completed. Currently concentrating on Artificial Intelligence & Machine Learning.
+I'm an undergraduate student in Northwestren Polytechnical University in China. I have experiences in programming with several projects completed. Currently concentrating on Artificial Intelligence & Machine Learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hana-kouiriti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hkouiriti@gmail.com) 
