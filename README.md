@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning more about **Neural Networks**.
 - 💬 Ask me about **Ai and machine learning**
 - 📫 How to reach me: **hkouiriti@gmail.com**
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also have a portfolio website, check it out on [MyPortfolio](https://hanaportfolio.netlify.app/)
 
 ## About Me:
